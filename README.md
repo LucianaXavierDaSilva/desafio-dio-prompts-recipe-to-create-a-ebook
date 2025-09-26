@@ -1,9 +1,11 @@
 # Projeto: desafio-dio-prompts-recipe-to-create-a-ebook
 Projeto baseado no desafio do curso Dio: Criando um e-book com IAs Generativas - Bootcamp Universia – Fundamentos de IA Generativa.
 
-# Descrição do Projeto - e-book
-## Título do e-book – Subtítulo
-Criação de ebook voltado para o público iniciante em tecnologia com a pretensão de ser divulgado nas redes sociais. Para a criação deste ebook foram criadas imagens e conteúdo utilizando o modelo IA generativo GPT.
+# Descrição do Projeto: e-book
+## Garotas nas Nuvens - Aprendendo juntas os fundamentos da nuvem
+Criação de e-book voltado para o público feminino iniciante em tecnologia com a pretensão de ser divulgado nas redes sociais. Para a criação deste e-book foram criadas imagens e conteúdo utilizando o modelo IA generativo GPT.
+
+![e-book](https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-recipe-to-create-a-ebook/blob/main/CapaReduzida.png)
 
 ## Status do projeto
 O projeto ainda está em desenvolvimento devido a necessidade criar mais capítulos sobre o tema.
@@ -11,14 +13,14 @@ O projeto ainda está em desenvolvimento devido a necessidade criar mais capítu
 ## Funcionalidades e demonstração
 O e-book sobre tecnologia apresenta foco em Nuvem sugerindo ferramentas e conceitos.
 
-**E-book** [Clique aqui para ler o ebook](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for)
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+**E-book: Garotas nas Nuvens - Aprendendo juntas os fundamentos da nuvem** [Clique aqui para ler o ebook](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for)
+<a href="https://github.com/.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
-*Observação: Ao clicar no link, o arquivo de áudio será baixado para o seu computador.*
+*Observação: Ao clicar no link, o arquivo PDF será baixado para o seu computador.*
   
 ## Verifica a entrada do prompt e a saída do ChatGPT
-IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do Podcast mais criativa.
-* [Prompt para escolha do nome do e-book]()
+IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do e-book mais criativa.
+* [Prompt para escolha do nome do e-book](https://chatgpt.com/c/68d6ffe6-bfe8-8328-ac33-a3152cb464a8)
 * [Prompt para criação da imagem da capa]()
 * [Prompt com variáveis para criação do conteúdo para os capítulos]()
 
@@ -36,7 +38,6 @@ Em alguns momentos as respostas vieram simples. Sendo necessário o uso de promp
 * [Luciana Xavier - GitHub](https://github.com/lucianaxavierdasilva) - *E-book para o desafio e documentação.*
 * <a href="https://www.linkedin.com/in/luciana-xavier-da-silva-61052614/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Luciana%20Xavier-blue?style=flat&logo=linkedin" alt="LinkedIn"/> </a>
 
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
