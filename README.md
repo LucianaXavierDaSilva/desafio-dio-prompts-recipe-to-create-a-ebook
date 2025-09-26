@@ -8,7 +8,7 @@ Criação de ebook voltado para o público iniciante em tecnologia com a pretens
 ## Status do projeto
 O projeto ainda está em desenvolvimento devido a necessidade criar mais capítulos sobre o tema.
 
-# Funcionalidades e demonstração
+## Funcionalidades e demonstração
 O e-book sobre tecnologia apresenta foco em Nuvem sugerindo ferramentas e conceitos.
 
 **E-book** [Clique aqui para ler o ebook](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for)
@@ -16,7 +16,7 @@ O e-book sobre tecnologia apresenta foco em Nuvem sugerindo ferramentas e concei
 
 *Observação: Ao clicar no link, o arquivo de áudio será baixado para o seu computador.*
   
-# Verifica a entrada do prompt e a saída do ChatGPT
+## Verifica a entrada do prompt e a saída do ChatGPT
 IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do Podcast mais criativa.
 * [Prompt para escolha do nome do e-book]()
 * [Prompt para criação da imagem da capa]()
