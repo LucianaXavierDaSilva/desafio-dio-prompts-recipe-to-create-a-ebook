@@ -21,8 +21,8 @@ O e-book sobre tecnologia apresenta foco em Nuvem sugerindo ferramentas e concei
 ## Verifica a entrada do prompt e a saída do ChatGPT
 IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do e-book mais criativa.
 * [Prompt para escolha do nome do e-book](https://chatgpt.com/c/68d6ffe6-bfe8-8328-ac33-a3152cb464a8)
-* [Prompt para criação da imagem da capa]()
-* [Prompt com variáveis para criação do conteúdo para os capítulos]()
+* [Prompt para criação da imagem da capa](https://chatgpt.com/c/68d4892c-ffc8-8325-8648-87ba6bed7587)
+* [Prompt com variáveis para criação do conteúdo para os capítulos](https://chatgpt.com/c/68d70f3a-a47c-8331-92e9-8759785b76c8)
 
 # Conclusão
 Em alguns momentos as respostas vieram simples. Sendo necessário o uso de prompts mais avançados e treinamentos com o modelo.
@@ -30,20 +30,10 @@ Em alguns momentos as respostas vieram simples. Sendo necessário o uso de promp
 # Tecnologias utilizadas
 * [GitHub](https://github.com/) - Repositório remoto para hospedagem de código-fonte, arquivos e versionamento Git.
 * [ChatGPT](https://chat.chatbot.app) - Plataforma de AI ChatGPT. Foi utilizado para os prompts de criação de: conteúdo e imagens.
-* [Midjourney](https://www.midjourney.com) - Criação de imagens usando AI. O Midjourney não pode ser utilizado, pois no momento da criação deste Podcast o mesmo não disponibilizava plano de teste gratuito.
-* [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Ferramenta para edição e diagramação
+* [Midjourney](https://www.midjourney.com) - Criação de imagens usando AI. O Midjourney não pode ser utilizado, pois no momento da criação deste e-book o mesmo não disponibilizava plano de teste gratuito.
+* [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Ferramenta para edição e diagramação.
 
 # Pessoas desenvolvedoras do projeto
 * [Felipe Silva Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) - *E-book inicial de exemplo para o curso.*
 * [Luciana Xavier - GitHub](https://github.com/lucianaxavierdasilva) - *E-book para o desafio e documentação.*
 * <a href="https://www.linkedin.com/in/luciana-xavier-da-silva-61052614/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Luciana%20Xavier-blue?style=flat&logo=linkedin" alt="LinkedIn"/> </a>
-
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
