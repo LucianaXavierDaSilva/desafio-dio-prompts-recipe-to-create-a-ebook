@@ -34,6 +34,6 @@ Em alguns momentos as respostas vieram simples. Sendo necessário o uso de promp
 * [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Ferramenta para edição e diagramação.
 
 # Pessoas desenvolvedoras do projeto
-* [Felipe Silva Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) - *E-book inicial de exemplo para o curso.*
+* [Felipe Silva Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main) - *E-book inicial de exemplo para o curso.*
 * [Luciana Xavier - GitHub](https://github.com/lucianaxavierdasilva) - *E-book para o desafio e documentação.*
 * <a href="https://www.linkedin.com/in/luciana-xavier-da-silva-61052614/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Luciana%20Xavier-blue?style=flat&logo=linkedin" alt="LinkedIn"/> </a>
