@@ -13,7 +13,7 @@ O projeto ainda está em desenvolvimento devido a necessidade criar mais capítu
 ## Funcionalidades e demonstração
 O e-book sobre tecnologia apresenta foco em Nuvem sugerindo ferramentas e conceitos.
 
-**E-book: Garotas nas Nuvens - Aprendendo juntas os fundamentos da nuvem** [Clique aqui para ler o ebook](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for)
+**E-book: Garotas nas Nuvens - Aprendendo juntas os fundamentos da nuvem** [Clique aqui para ler o ebook]
 <a href="[https://github.com/.pdf](https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-recipe-to-create-a-ebook/blob/main/EbookGarotasNasNuvens.pdf)" title="View PDF now">Clique aqui para ler</a>
 
   
