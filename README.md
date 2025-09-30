@@ -14,9 +14,8 @@ O projeto ainda está em desenvolvimento devido a necessidade criar mais capítu
 O e-book sobre tecnologia apresenta foco em Nuvem sugerindo ferramentas e conceitos.
 
 **E-book: Garotas nas Nuvens - Aprendendo juntas os fundamentos da nuvem** [Clique aqui para ler o ebook](https://raw.githubusercontent.com/LucianaXavierDaSilva/desafio-dio-prompts-for)
-<a href="[https://github.com/.pdf](https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-recipe-to-create-a-ebook/blob/main/EbookGarotasNasNuvens.pdf)" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[https://github.com/.pdf](https://github.com/LucianaXavierDaSilva/desafio-dio-prompts-recipe-to-create-a-ebook/blob/main/EbookGarotasNasNuvens.pdf)" title="View PDF now">Clique aqui para ler</a>
 
-*Observação: Ao clicar no link, o arquivo PDF será baixado para o seu computador.*
   
 ## Verifica a entrada do prompt e a saída do ChatGPT
 IA foi de grande utilidade compreendendo os prompt corretamente e retornando saídas detalhadas reduzindo o tempo e tornando a criação do e-book mais criativa.
